@@ -11,4 +11,4 @@ This project provides tools and scripts for analyzing network packets from PCAP 
 - **Latency Measurement**: Calculate and plot packet latency (time delta) for performance insights.
 - **Packet Loss Detection**: Detect and report packet loss and retransmissions.
 - **Top 10 Source IPs**: Top 10 Most Frequent Source IPs.
- ![Top 10 IPs](https://github.com/Salahbendary/Network-Packet-Analysis-with-Python/blob/main/Top%2010%20Most%20Frequent%20Source%20IPs.png)
+  ![Top 10 IPs](https://github.com/Salahbendary/Network-Packet-Analysis-with-Python/blob/main/Top%2010%20Most%20Frequent%20Source%20IPs.png)
